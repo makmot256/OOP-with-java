@@ -1,0 +1,40 @@
+variables 
+datatypes
+numerical
+primitive datatypes as part of java library
+package- collection of related classes
+
+......datatypes......
+ 
+byte
+double 
+int 
+string
+
+non primitive..(not  in the java lib)
+class
+object refernce. address in memory
+
+final... constant
+
+array.
+arrayLists. under java Corrections. 
+
+two dimentional array applications
+
+manipulate column vecctors 
+determination of point in space.. using x,y,z plane
+sorting array.
+how elements are sorted in an array. 
+
+Classs membership.
+A class can conation
+
+keyword static
+
+public Static String College... class variable/ static variable./// cuts accross 
+
+methods with key word static are owned by the class./ members hv same value.
+
+5 gals share one boyfriend. 
+ indicies of an array run from 0 to n-1
