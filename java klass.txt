@@ -1,0 +1,14 @@
+static keyword.
+visibility modifiers 
+constructors in java.
+method within a class that has the same method as the class . does not return 
+it has not return type
+it is used to create objects of the class 
+Example;
+public class 
+
+next int captures integers
+next double in java... double values
+next boolean boolean
+nextFloat() floats
+ nextLine() whole line of text up to when a new line fit is encountered
