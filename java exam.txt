@@ -1,0 +1,16 @@
+// method overloading
+// same method name and different parameters
+public class A{
+    public void m(int x){
+        System.out.printIn(x);
+    }
+    public void m(double x){
+        System.out.printIn(x);
+    }
+    public static void main(String args[]){
+        A obj1 = new A();
+        obj1.m(12);
+        A obj2 = new A();
+        obj2.m(1.2);
+    }
+}
